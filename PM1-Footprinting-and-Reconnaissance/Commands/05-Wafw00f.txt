@@ -1,0 +1,8 @@
+$ wafw00f networkwalks.com
+
+WAFW00F v2.4.2
+[*] Checking https://networkwalks.com
+[+] The site https://networkwalks.com is behind ModSecurity (SpiderLabs) WAF.
+[~] Number of requests: 2
+
+Note: This records Wafw00f's identification result only. It does not verify WAF configuration or effectiveness.

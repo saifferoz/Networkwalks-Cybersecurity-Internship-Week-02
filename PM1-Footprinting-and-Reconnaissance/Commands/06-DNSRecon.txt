@@ -1,0 +1,16 @@
+$ dnsrecon -d networkwalks.com
+
+[INFO] Starting enumeration for domain: networkwalks.com
+[ERROR] No answer for DNSSEC query for networkwalks.com
+[INFO] SOA record identified: ns6135.hostgator.com
+[INFO] NS records identified: ns6135.hostgator.com, ns6136.hostgator.com
+[INFO] MX record identified: mail.networkwalks.com
+[INFO] A record identified: networkwalks.com
+[INFO] TXT records identified:
+       - Google site-verification record [VALUE REDACTED]
+       - SPF policy record [VALUE REDACTED]
+[INFO] SRV records enumerated: 8 results
+[INFO] 8 Records Found
+[INFO] Completed enumeration for domain: networkwalks.com
+
+Note: Client-specific verification tokens, detailed IP data, and other potentially sensitive DNS values have been redacted from this public summary.

@@ -1,0 +1,17 @@
+$ whatweb networkwalks.com
+
+http://networkwalks.com [301 Moved Permanently]
+- Apache
+- Redirects to https://networkwalks.com/
+
+https://networkwalks.com [200 OK]
+- Apache
+- Bootstrap 7.1.4
+- WordPress 7.1.4
+- WordPress Download Manager 3.3.76
+- jQuery 3.7.1
+- HTML5
+- Google Tag Manager
+- Page title: Networkwalks Academy
+
+Note: This is a concise, sanitized transcription of the supplied terminal output. The observed versions are recorded as reported by the practical WhatWeb output.

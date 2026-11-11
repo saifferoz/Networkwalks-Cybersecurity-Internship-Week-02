@@ -1,0 +1,15 @@
+$ curl -I https://networkwalks.com
+
+HTTP/2 200
+permissions-policy: [header value omitted]
+link: <https://networkwalks.com/wp-json/>; rel="https://api.w.org/"
+link: <https://networkwalks.com/wp-json/wp/v2/pages/53>; rel="alternate"; title="JSON"; type="application/json"
+set-cookie: __wpdm_client=[REDACTED]; path=/; domain=networkwalks.com; secure; HttpOnly
+referrer-policy: no-referrer-when-downgrade
+x-endurance-cache-level: 0
+x-nginx-cache: WordPress
+content-type: text/html; charset=UTF-8
+date: Wed, 11 Nov 2026 16:48:21 GMT
+server: Apache
+
+Note: Cookie value and nonessential header values are redacted/omitted to avoid publishing session-like identifiers.
