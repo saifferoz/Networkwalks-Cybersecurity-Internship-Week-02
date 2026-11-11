@@ -34,10 +34,6 @@ Hands-on work completed during Week 2 of the Cybersecurity & Ethical Hacking Int
 └── .gitignore
 ```
 
-## Important methodology note
-
-The practical terminal commands and their observed outputs are the source of truth for this repository. Where a written report summary differs from the actual terminal output, this repository documents the practical finding.
-
 ## Scope and responsible-use statement
 
 - PM1 reconnaissance was performed against `networkwalks.com` with written permission.
